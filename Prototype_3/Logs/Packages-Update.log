@@ -65,3 +65,25 @@ The following packages were removed:
   com.unity.analytics@3.2.2
   com.unity.package-manager-ui@2.0.7
   com.unity.purchasing@2.0.3
+
+=== Sun May  2 14:30:34 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.ads@2.0.8
+  com.unity.analytics@3.2.2
+  com.unity.package-manager-ui@2.0.7
+  com.unity.purchasing@2.0.3
+
+=== Sun May  2 14:31:25 2021
+
+Packages were changed.
+Update Mode: resetToDefaultDependencies
+
+The following packages were removed:
+  com.unity.ads@2.0.8
+  com.unity.analytics@3.2.2
+  com.unity.package-manager-ui@2.0.7
+  com.unity.purchasing@2.0.3
